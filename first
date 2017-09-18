@@ -11,3 +11,7 @@ syntax: cal
 3. date
 to show the system date on terminal
 syntax: date
+
+4. echo
+used to diplay some message on terimnal
+syntax: echo message
