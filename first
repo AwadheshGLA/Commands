@@ -23,3 +23,7 @@ syntax: ls
 6. uname
 tells about operating system
 syntax: uname
+
+7. who
+tells about username
+syntax: who
