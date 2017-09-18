@@ -3,3 +3,7 @@ this file is containing various commands used on bash terminal
 1. Man
 it is manual command. it provides details about particular command.
 syntax : man command-name;
+
+2. cal
+used to show calender of current month
+syntax: cal
