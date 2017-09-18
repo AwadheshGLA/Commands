@@ -19,3 +19,7 @@ syntax: echo message
 5. ls
 used to list out file and directories in a particular directory
 syntax: ls
+
+6. uname
+tells about operating system
+syntax: uname
