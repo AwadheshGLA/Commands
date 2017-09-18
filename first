@@ -15,3 +15,7 @@ syntax: date
 4. echo
 used to diplay some message on terimnal
 syntax: echo message
+
+5. uname
+tells about operating system
+syntax: uname
