@@ -7,3 +7,7 @@ syntax : man command-name;
 2. cal
 used to show calender of current month
 syntax: cal
+
+3. date
+to show the system date on terminal
+syntax: date
