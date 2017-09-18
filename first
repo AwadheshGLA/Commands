@@ -27,3 +27,7 @@ syntax: uname
 7. who
 tells about username
 syntax: who
+
+8. pwd
+it shows the present working directory
+syntax: pwd
