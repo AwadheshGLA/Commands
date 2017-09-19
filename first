@@ -1,4 +1,5 @@
-hello
+
+10hello
 this file is containing various commands used on bash terminal
 1. Man
 it is manual command. it provides details about particular command.
@@ -35,3 +36,6 @@ syntax: pwd
 9.mkdir
 used to make a directory
 syntax: mkdir
+
+10. cat 
+for creating a file and displaying a file content 
