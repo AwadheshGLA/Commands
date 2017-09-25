@@ -40,3 +40,6 @@ syntax: mkdir
 10. cat 
 for creating a file and displaying a file content 
 syntax: cat filename, cat >filename
+
+11. rmdir
+for removing the directory
