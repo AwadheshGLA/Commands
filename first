@@ -1,3 +1,4 @@
+
 hello
 this file is containing various commands used on bash terminal
 1. Man
@@ -31,3 +32,6 @@ syntax: who
 8. pwd
 it shows the present working directory
 syntax: pwd
+
+9. cat
+to creat and display files
