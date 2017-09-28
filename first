@@ -1,4 +1,3 @@
-
 this file is containing various commands used on bash terminal
 1. Man
 it is manual command. it provides details about particular command.
@@ -43,3 +42,5 @@ syntax: cat filename, cat >filename
 11. rmdir
 for removing the directory
 
+12. rm
+to remove files 
