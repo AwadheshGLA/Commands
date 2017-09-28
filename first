@@ -1,5 +1,4 @@
 
-hello
 this file is containing various commands used on bash terminal
 1. Man
 it is manual command. it provides details about particular command.
@@ -33,5 +32,14 @@ syntax: who
 it shows the present working directory
 syntax: pwd
 
-9. cat
-to creat and display files
+9.mkdir
+used to make a directory
+syntax: mkdir
+
+10. cat 
+for creating a file and displaying a file content 
+syntax: cat filename, cat >filename
+
+11. rmdir
+for removing the directory
+
